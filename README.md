@@ -15,7 +15,19 @@
 
 ## 수정사항
 - CMakeList.txt
-  - d
+  - cd catkin_ws/src/gps-waypoint-nva
+  - gedit CMakeLists.txt
+    
+    find_package(catkin REQUIRED COMPONENTS
+      roscpp
+      rospy
+      std_msgs
+      tf
+      roslib
+      roslaunch
+      robot_localization //추가, 근데 이미 추가되어있었음
+      )
+      
 - Package.xml 
   - cd catkin_ws/src/gps-waypoint-based-autonomous-navigation-in-ros
   - gedit package.xml
