@@ -19,7 +19,6 @@
 - Package.xml 
   - cd catkin_ws/src/gps-waypoint-based-autonomous-navigation-in-ros
   - gedit package.xml
-  ---
     <buildtool_depend>catkin</buildtool_depend>
     <build_depend>roscpp</build_depend>
     <build_depend>rospy</build_depend>
