@@ -49,4 +49,11 @@
 
   -  #include <robot_localization/navsat_conversions.h>
   
-    - #include "/ _your_path_ /catkin_ws/src/robot_localization/include/robot_localization/navsat_conversions.h"
+      - #include "/ _your_path_ /catkin_ws/src/robot_localization/include/robot_localization/navsat_conversions.h"
+      
+   - 모든 .cpp 파일에 추가
+   - #include "/ _your_path_ /geographiclib/include/GeographicLib/MGRS.hpp"
+      - #include <GeographicLib/MGRS.hpp>
+     
+    - #include "/ _your_path_ /geographiclib/include/GeographicLib/UTMPS.hpp"
+      - #include <GeographicLib/UTMUPS.hpp>
