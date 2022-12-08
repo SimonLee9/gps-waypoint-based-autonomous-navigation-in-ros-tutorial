@@ -38,5 +38,7 @@
     <build_depend>std_msgs</build_depend>
     <build_depend>roslaunch</build_depend>
     <build_depend>robot_localization</build_depend> // 이것도 이미 추가되어있었음
+    
 - .CPP
-  - 
+  - 변경할 항목
+    - ㅇㅇㄹ
