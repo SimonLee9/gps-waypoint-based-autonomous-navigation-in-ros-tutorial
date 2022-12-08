@@ -46,3 +46,7 @@
     - gps_waypoint_continuous2.cpp
     - gps_waypoint_mapping.cpp
     - plot_gps_waypoints.cpp
+
+  -  #include <robot_localization/navsat_conversions.h>
+  -> 
+  - #include "/ _your_path_ /catkin_ws/src/robot_localization/include/robot_localization/navsat_conversions.h"
