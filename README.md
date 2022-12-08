@@ -57,3 +57,5 @@
      
     - #include "/ _your_path_ /geographiclib/include/GeographicLib/UTMPS.hpp"
       - #include <GeographicLib/UTMUPS.hpp>
+# Navigation
+- roslaunch gps_waypoint_nav gps_waypoint_nav.launch
