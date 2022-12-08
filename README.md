@@ -57,5 +57,11 @@
      
     - #include "/ _your_path_ /geographiclib/include/GeographicLib/UTMPS.hpp"
       - #include <GeographicLib/UTMUPS.hpp>
-# Navigation
+      
+# Run  
+
+## Navigation
 - roslaunch gps_waypoint_nav gps_waypoint_nav.launch
+
+## joystick controller
+- roslaunch gps_waypoint_nav joy_launch_control.launch
