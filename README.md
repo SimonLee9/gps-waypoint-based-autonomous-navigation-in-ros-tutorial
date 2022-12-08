@@ -41,4 +41,8 @@
     
 - .CPP
   - 변경할 항목
-    - ㅇㅇㄹ
+    - gps_waypoint.cpp
+    - gps_waypoint_continuous1.cpp
+    - gps_waypoint_continuous2.cpp
+    - gps_waypoint_mapping.cpp
+    - plot_gps_waypoints.cpp
