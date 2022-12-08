@@ -9,6 +9,6 @@
   - 수정경로?
   - cd catkin_ws/src/include/robot_localization
 
-# Settup
+# Settup : gps-waypoint-based-autonomous-navigation-in-ros
 - cd catkin_ws/src
-- gps-waypoint-based-autonomous-navigation-in-ros
+- git clone https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros.git gps_waypoint_nav
