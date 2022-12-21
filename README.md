@@ -65,3 +65,7 @@
 
 ## joystick controller
 - roslaunch gps_waypoint_nav joy_launch_control.launch
+
+## 에러 솔루션
+Resolve gps-waypoint-based-autonomous-navigation-in-ros PKG Cmake Error
+https://hm02123.tistory.com/m/10
